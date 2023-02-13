@@ -21,7 +21,7 @@ It is a complete CMS (CONTENT MANAGEMENT SYSTEM for building Dynamic , Attractiv
 
 ## Course Include
 1. Download and Install Wordpress
-2. Installation of Wamp / Xammp Server
+2. Installation of Wamp / Xampp Server
 3. Theme Installation (Internal and External Both)
 4. Plugins Installation (Internal and External Both)
 5. Working with different Plugins on Industry Demand
@@ -32,7 +32,9 @@ It is another ONLINE CMS using for Online Buisness
 
 ## Course Include
 1. Fundamentals of Shopify
-2. Complete Ecommerece site on Shopify
+2. Complete E-commerce site on Shopify
+3. Theme Installation
+4. Plugin Installation
 
 # SEO
 SEO (Search Engine Optimaization) is the backbone of Digital Market. It's help developer and marketers to promote their product on Internet Media like Facebook , Google Buisness , Instgram etc
