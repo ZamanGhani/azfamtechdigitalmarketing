@@ -1,3 +1,5 @@
+
+
 # Azfamtech Digital Marketing
 
 # Digital Marketing
@@ -7,9 +9,12 @@ Digital Marketing is very important course with this modern era of technology. Y
 # Course Structure
 [i. WordPress](#Wordpress)
 
-[ii. SEO](#SEO)
+[ii. Shopify](#Shopify)
 
-[iii. Social Media Marketing](#SMM)
+[iii. SEO](#SEO)
+
+[iv. Social Media Marketing](#SMM)
+
 
 # WordPress
 It is a complete CMS (CONTENT MANAGEMENT SYSTEM for building Dynamic , Attractive websites within few hours)
@@ -22,26 +27,12 @@ It is a complete CMS (CONTENT MANAGEMENT SYSTEM for building Dynamic , Attractiv
 5. Working with different Plugins on Industry Demand
 6. Project Deployment
 
+# Shopify
+It is another ONLINE CMS using for Online Buisness
 
-### Plugins
-a.) SmartSlider
-
-b.) Currency Convertor
-
-c.) Language Switcher
-
-d.) WooCommerce
-
-e.) Contact Form
-
-f.) Yoast SEO
-
-g.) ahref
-
-### Themes
-i.) StoreFront
-
-ii.) Astra (Theme Collections)
+## Course Include
+1. Fundamentals of Shopify
+2. Complete Ecommerece site on Shopify
 
 # SEO
 SEO (Search Engine Optimaization) is the backbone of Digital Market. It's help developer and marketers to promote their product on Internet Media like Facebook , Google Buisness , Instgram etc
@@ -67,5 +58,6 @@ Social Media Marketing is the process to market product according to Market.
 3. Facebook Market (Ads , Boost , Campaign)
 4. Instagram Market (Sponsered Ads )
 5. Youtube Market (Types of Ads , Campaign on youtube)
-
-
+6. LinkedIn
+7. TikTok
+8. SnapChat
