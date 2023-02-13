@@ -11,6 +11,8 @@ Digital Marketing is very important course with this modern era of technology. Y
 
 [iii. Social Media Marketing](#SMM)
 
+[iii. Social Media Marketing](#SMM)
+
 # WordPress
 It is a complete CMS (CONTENT MANAGEMENT SYSTEM for building Dynamic , Attractive websites within few hours)
 
