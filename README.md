@@ -50,6 +50,7 @@ SEO (Search Engine Optimaization) is the backbone of Digital Market. It's help d
 8. Working with SEO tools (ahref , Moz , seositecheckup)
 9. Site Audit
 10. Content Writting
+11. Paid Plugins (Semrush , Moz , Quilbot , Grammarly)
 
 # SMM
 Social Media Marketing is the process to market product according to Market.
