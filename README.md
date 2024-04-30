@@ -24,8 +24,14 @@ It is a complete CMS (CONTENT MANAGEMENT SYSTEM for building Dynamic , Attractiv
 2. Installation of Wamp / Xampp Server
 3. Theme Installation (Internal and External Both)
 4. Plugins Installation (Internal and External Both)
-5. Working with different Plugins on Industry Demand
-6. Project Deployment
+5. Google Search Console and Analytics Connection
+6. Elementor Page Builder
+7. WP Bakery Page Builder
+8. WooCommerece Plugin
+9. Extensions of WooCommerece
+10. Affiliate Marketing
+11. Working with different Plugins on Industry Demand
+12. Project Deployment
 
 # Shopify
 It is another ONLINE CMS using for Online Buisness
@@ -35,6 +41,8 @@ It is another ONLINE CMS using for Online Buisness
 2. Complete E-commerce site on Shopify
 3. Theme Installation
 4. Plugin Installation
+5. Migration from other CMS to Shopify.
+6. Drop Shipping
 
 # SEO
 SEO (Search Engine Optimaization) is the backbone of Digital Market. It's help developer and marketers to promote their product on Internet Media like Facebook , Google Buisness , Instgram etc
