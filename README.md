@@ -29,9 +29,15 @@ It is a complete CMS (CONTENT MANAGEMENT SYSTEM for building Dynamic , Attractiv
 7. WP Bakery Page Builder
 8. WooCommerece Plugin
 9. Extensions of WooCommerece
-10. Affiliate Marketing
-11. Working with different Plugins on Industry Demand
-12. Project Deployment
+10. Backup of Wordpress
+11. Migration of Wordpress
+12. Hosting on CPanel
+13. Domain Setup
+14. Sub-Domain Setting
+15. Migration from different CMS to WordPress
+16. Affiliate Marketing
+17. Working with different Plugins on Industry Demand
+18. Project Deployment
 
 # Shopify
 It is another ONLINE CMS using for Online Buisness
@@ -73,7 +79,9 @@ SEO (Search Engine Optimaization) is the backbone of Digital Market. It's help d
 23. Working with SEO tools (ahref , Moz , seositecheckup)
 24. Site Audit
 25. Content Writting
-26. Paid Plugins (Semrush , Moz , Quilbot , Grammarly)
+26. Google Play Store Keyword Searching.
+27. App Marketing
+28. Paid Plugins (Semrush , Moz , Quilbot , Grammarly)
 
 # SMM
 Social Media Marketing is the process to market product according to Market.
