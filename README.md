@@ -82,8 +82,17 @@ Social Media Marketing is the process to market product according to Market.
 1. Understanding Marketing Strategy
 2. Facebook Marketing (Meta Buisness Suite)
 3. Facebook Market (Ads , Boost , Campaign)
-4. Instagram Market (Sponsered Ads )
-5. Youtube Market (Types of Ads , Campaign on youtube)
-6. LinkedIn
-7. TikTok
-8. SnapChat
+4. Online Product Selling on Facebook Market Place
+5. Lead Generation.
+6. Page Boost
+7. Post Boost
+8. Difference between Ad and Campaign
+9. Video Ads
+10. Non Skippable Ads
+11. Instagram Market (Sponsered Ads)
+12. Youtube Market (Types of Ads , Campaign on youtube)
+13. Ads Promotions
+14. Bidding on Ads and Campaigns
+15. LinkedIn Marketing
+16. TikTok Marketing
+17. SnapChat Marketing
