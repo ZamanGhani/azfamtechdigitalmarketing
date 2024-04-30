@@ -41,16 +41,31 @@ SEO (Search Engine Optimaization) is the backbone of Digital Market. It's help d
 
 ## Course Include
 1. Understanding terms of Google
-2. Keyword (Long tail and Short tail)
-3. Keyword Reaseach tools
-4. CPC (COST PER CLICK)
-5. 4Ps of Marketing
-6. Google Adsense
-7. Google Buisness Profile
-8. Working with SEO tools (ahref , Moz , seositecheckup)
-9. Site Audit
-10. Content Writting
-11. Paid Plugins (Semrush , Moz , Quilbot , Grammarly)
+2. Search Engine Marketing.
+3. Technical SEO
+4. ON-PAGE SEO
+5. OFF-PAGE SEO
+6. KEYWORDS HUNTING
+7. KEYWORDS GAP
+8. DOMAIN AUTHORITY
+9. Traffic Analytics
+10. Organic Research
+11. Position Tracking
+12. Backlinks Analytics
+13. Backlinks Audit
+14. Link Building
+15. Organic Traffic Analytics
+16. Keyword (Long tail and Short tail)
+17. Keyword Reaseach tools
+18. CPC (COST PER CLICK)
+19. PPC (PAY PER CLICK)
+20. 4Ps of Marketing
+21. Google Adsense
+22. Google Buisness Profile
+23. Working with SEO tools (ahref , Moz , seositecheckup)
+24. Site Audit
+25. Content Writting
+26. Paid Plugins (Semrush , Moz , Quilbot , Grammarly)
 
 # SMM
 Social Media Marketing is the process to market product according to Market.
