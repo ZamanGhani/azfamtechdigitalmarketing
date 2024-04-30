@@ -111,3 +111,7 @@ Social Media Marketing is the process to market product according to Market.
 15. LinkedIn Marketing
 16. TikTok Marketing
 17. SnapChat Marketing
+18. Email Marketing
+19. Email Marketing Tools
+20. Content Marketing
+    
