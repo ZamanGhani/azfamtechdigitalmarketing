@@ -49,6 +49,13 @@ It is another ONLINE CMS using for Online Buisness
 4. Plugin Installation
 5. Migration from other CMS to Shopify.
 6. Drop Shipping
+7. POS Setup
+8. Domain Integration
+9. Package Upgrade.
+10. Produt and Theme Setup
+11. Search Engine Fundamentals in Shopify
+12. Live Tracking Users
+13. Email Setup
 
 # SEO
 SEO (Search Engine Optimaization) is the backbone of Digital Market. It's help developer and marketers to promote their product on Internet Media like Facebook , Google Buisness , Instgram etc
