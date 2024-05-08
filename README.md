@@ -119,4 +119,10 @@ Social Media Marketing is the process to market product according to Market.
 
 # AI Tools for Digital Marketing
 AI Tools for Digital Marketing
+ 1. DALL·E 3           [Image creation]
+ 2. ChatGPT            [Research and writing]
+ 3. Zapier Chatbots    [Research and writing]
+ 4. Jasper             [Writing]
+ 5. Canva              [For Designing]
+ 6. SEO.Ai             [For SEO]
     
