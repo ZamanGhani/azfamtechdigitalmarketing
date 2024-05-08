@@ -116,4 +116,7 @@ Social Media Marketing is the process to market product according to Market.
 18. Email Marketing
 19. Email Marketing Tools
 20. Content Marketing
+
+# AI
+AI Tools for Digital Marketing
     
