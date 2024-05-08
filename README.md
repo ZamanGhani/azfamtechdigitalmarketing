@@ -15,6 +15,8 @@ Digital Marketing is very important course with this modern era of technology. Y
 
 [iv. Social Media Marketing](#SMM)
 
+[v. AI Tools for Digital Marketing](#AI)
+
 
 # WordPress
 It is a complete CMS (CONTENT MANAGEMENT SYSTEM for building Dynamic , Attractive websites within few hours)
@@ -114,4 +116,7 @@ Social Media Marketing is the process to market product according to Market.
 18. Email Marketing
 19. Email Marketing Tools
 20. Content Marketing
+
+# AI
+AI TOOLS FOR DIGITAL MARKETING
     
